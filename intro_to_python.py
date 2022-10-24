@@ -68,15 +68,3 @@ print(list(my_count))
 number_of_elements = len(list(my_count))
 
 print(number_of_elements)
-
-
-
-
-
-
-
-
-
-
-
-
